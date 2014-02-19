@@ -1,0 +1,40 @@
+{
+  "name": "gulp-sloc",
+  "version": "1.0.0",
+  "description": "Gulp plugin to log number of source lines of code",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "through2": "~0.4.1",
+    "gulp-util": "~2.2.14"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "gulp": "~3.5.2",
+    "sinon": "~1.8.2",
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/krzysztof-o/gulp-sloc.git"
+  },
+  "keywords": [
+    "gulp",
+    "plugin",
+    "sloc",
+    "loc",
+    "kloc",
+    "source",
+    "lines",
+    "code"
+  ],
+  "author": "Krzysztof Opalka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krzysztof-o/gulp-sloc/issues"
+  }
+}
