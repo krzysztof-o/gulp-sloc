@@ -2,7 +2,7 @@
 Gulp plugin to log number of source lines of code a.k.a. [sloc](http://en.wikipedia.org/wiki/Source_lines_of_code)
 
 ```javascript
-var kloc = require('gulp-sloc');
+var sloc = require('gulp-sloc');
 
 gulp.src('*')
   .pipe(sloc())
