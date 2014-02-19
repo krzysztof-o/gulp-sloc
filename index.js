@@ -1,7 +1,7 @@
 var through = require('through2');
 var gutil = require('gulp-util');
 
-const PLUGIN_NAME = 'gulp-sloc';
+const PLUGIN_NAME = 'gulp-sloc2';
 
 module.exports = function() {
   var numberOfLines = 0;
