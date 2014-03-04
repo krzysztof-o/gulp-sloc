@@ -1,6 +1,6 @@
 {
   "name": "gulp-sloc-simply",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Gulp plugin to log number of source lines of code",
   "main": "index.js",
   "directories": {
